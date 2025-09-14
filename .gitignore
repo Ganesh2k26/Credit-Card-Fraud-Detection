@@ -1,29 +1,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Virtualenvs
-venv/
-.venv/
-env/
-ENV/
-
-# Environment variables / secrets
 .env
-.env.*
-
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-
-# IDEs
-.vscode/
-.idea/
-
-# OS files
+*.pyo
+.venv/
+venv/
 .DS_Store
-Thumbs.db
-
-# Test cache
-.pytest_cache/
